@@ -1,6 +1,6 @@
 package options
 
-import "github.com/aprice/telnet"
+import "github.com/DJSundog/telnet"
 
 // SUPPRESS-GO-AHEAD Telnet Option - https://tools.ietf.org/html/rfc857
 
